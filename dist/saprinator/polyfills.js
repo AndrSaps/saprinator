@@ -3033,7 +3033,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\projects\saprinator\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! D:\Student\5semester\Системи із саморганізацією та самонавчанням\saprinator\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

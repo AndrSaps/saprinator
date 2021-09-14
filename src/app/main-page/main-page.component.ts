@@ -128,8 +128,7 @@ export class MainPageComponent implements OnInit {
   }
 
 
-  getRandom() {
-    debugger
+  getRandom(): number {
     if (this.questionStack.length == this.questions.length) {
       return
     }
