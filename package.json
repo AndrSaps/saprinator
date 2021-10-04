@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-prod": "npm i && ng build --prod --output-path=client && start http://localhost:8088"
+    "build-prod": "npm i && ng build --prod --output-path=client"
   },
   "private": true,
   "dependencies": {

@@ -38,7 +38,7 @@ describe('MainPageComponent', () => {
     const value = component.getRandom();
     fixture.detectChanges();
     fixture.whenStable().then(() => {
-      expect(component.questionNumber).toBeGreaterThanOrEqual(0);
+      expect(component.questionNumber).toBeGreaterThanOrEqual(1000);
     }); 
   });
 
